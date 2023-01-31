@@ -5,13 +5,13 @@
 
 <div align=center>
   
-  [![Yelynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YelynnOh)](https://github.com/YelynnOh/github-readme-stats&theme=radical&show_icons=true)
+  [![Yelynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YelynnOh)](https://github.com/YelynnOh/github-readme-stats&theme=tokyonight&show_icons=true)
 
 </div>
 
 <div align=center>
   
-  🌱 <h6> Currently learning / Experienced </h6> 🌱
+  <h5> 🌱 Currently learning / Experienced 🌱 </h5>
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
