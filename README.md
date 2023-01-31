@@ -1,11 +1,11 @@
 <div align = center>
-  ### Welcome to Yelynn's Github!👋
+  <h3> Welcome to Yelynn's Github!👋 </h3>
 </div>
 
 
 <div align=center>
   
-  [![Yelynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YelynnOh)](https://github.com/YelynnOh/github-readme-stats&theme=radical&show_icons=true)
+  [![Yelynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YelynnOh)](https://github.com/YelynnOh/github-readme-stats&theme=radical)
 
 </div>
 
